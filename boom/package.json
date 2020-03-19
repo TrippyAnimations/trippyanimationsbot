@@ -28,7 +28,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "hoek": "2.x.x"
+    "hoek": "6.x.x"
   },
   "deprecated": false,
   "description": "HTTP-friendly error objects",
